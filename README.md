@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div align = "left">
+  <img src = "https://github-readme-stats.vercel.app/api?username=true&count_private=true&show_icons=true&theme=react" width = "400">
+</div>
+
 <!--
 **turbobabr/turbobabr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
